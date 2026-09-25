@@ -1,0 +1,36 @@
+ABR — лицензия на использование
+Copyright (c) 2026 Y-Abramov (ABR, https://abrmove.ru). Все права защищены.
+
+Программы ABR распространяются бесплатно в виде готовых сборок (.tpm, .zip)
+из раздела Releases этого репозитория, через каталог модулей ABR и сайт
+https://abrmove.ru.
+
+Разрешено:
+- скачивать, устанавливать и использовать эти сборки, в том числе в
+  коммерческих проектах;
+- ссылаться на модуль и описывать его работу с указанием автора.
+
+Без письменного разрешения автора запрещено:
+- копировать, изменять и переводить программный код модуля или его части;
+- включать код модуля или его части в другие программы, плагины и библиотеки;
+- распространять модуль, его части или производные от него программы, в том
+  числе под другим названием или от своего имени;
+- выдавать модуль или его части за свою разработку.
+
+Исключение составляют случаи, прямо разрешённые законом (ГК РФ, ст. 1280).
+
+Программа предоставляется «как есть», без каких-либо гарантий. Автор не несёт
+ответственности за ущерб, возникший в результате её использования.
+
+По вопросам использования кода и сотрудничества: https://abrmove.ru
+
+---
+
+ABR — License
+Copyright (c) 2026 Y-Abramov (ABR, https://abrmove.ru). All rights reserved.
+
+The released builds (.tpm, .zip) are free to download, install and use,
+including for commercial work. Copying, modifying, redistributing the code or
+any part of it, including it in other software, or publishing derivative works
+without the author's written permission is prohibited, except where expressly
+permitted by law. Provided "as is", without warranty of any kind.
